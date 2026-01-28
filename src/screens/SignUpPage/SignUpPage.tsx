@@ -72,6 +72,7 @@ const SignUpPage = () => {
           <input
             placeholder="Enter your password"
             className={styles.inputBox}
+            type="password"
             value={password}
             onChange={(e) => {
               setPassword(e.target.value);
