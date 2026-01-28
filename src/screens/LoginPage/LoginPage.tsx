@@ -1,4 +1,4 @@
-import { ArrowLeft, ArrowRight, Zap } from "lucide-react";
+import { Zap } from "lucide-react";
 import styles from "./loginpage.module.css";
 import GmailIcon from "../../components/icons/GmailIcon";
 import FacebookIcon from "../../components/icons/FacebookIcon";

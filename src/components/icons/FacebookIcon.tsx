@@ -1,5 +1,3 @@
-import React from "react";
-
 const FacebookIcon = ({ size = 24, ...props }) => {
   return (
     <svg

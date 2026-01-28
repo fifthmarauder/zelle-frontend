@@ -1,5 +1,3 @@
-import React from "react";
-
 const AppleIcon = ({ size = 24, ...props }) => {
   return (
     <svg
